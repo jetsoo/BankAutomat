@@ -6,9 +6,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-    // ideen?= option um zu sehen ob owner account schon besteht und das konto dem hinzufügen
-    // pensionistenkarte childclass erstellen, difference to normal?
-    // mehr unterschiede noch zwischen kartenTyp einbauen?
+  
 
 
 
